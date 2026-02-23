@@ -1,0 +1,9 @@
+/home/user/ros_2/src/articubot_one/build/articubot_one/CMakeFiles/uninstall.dir
+/home/user/ros_2/src/articubot_one/build/articubot_one/CMakeFiles/articubot_one_uninstall.dir
+/home/user/ros_2/src/articubot_one/build/articubot_one/CMakeFiles/test.dir
+/home/user/ros_2/src/articubot_one/build/articubot_one/CMakeFiles/edit_cache.dir
+/home/user/ros_2/src/articubot_one/build/articubot_one/CMakeFiles/rebuild_cache.dir
+/home/user/ros_2/src/articubot_one/build/articubot_one/CMakeFiles/list_install_components.dir
+/home/user/ros_2/src/articubot_one/build/articubot_one/CMakeFiles/install.dir
+/home/user/ros_2/src/articubot_one/build/articubot_one/CMakeFiles/install/local.dir
+/home/user/ros_2/src/articubot_one/build/articubot_one/CMakeFiles/install/strip.dir
