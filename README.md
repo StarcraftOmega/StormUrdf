@@ -1,4 +1,4 @@
-Articubot One: 6-Wheeled Edition
+# Articubot One: 6-Wheeled Edition
 
 This guide provides the exact command sequence to build, visualize, and simulate your custom 6-wheeled robot in ROS 2 Humble.
 
