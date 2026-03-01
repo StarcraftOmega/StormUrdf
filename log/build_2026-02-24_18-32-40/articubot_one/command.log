@@ -1,0 +1,4 @@
+Invoking command in '/home/user/ros_2/src/articubot_one/build/articubot_one': CMAKE_PREFIX_PATH=/opt/ros/humble _=/usr/bin/env /usr/bin/cmake --build /home/user/ros_2/src/articubot_one/build/articubot_one -- -j8 -l8
+Invoked command in '/home/user/ros_2/src/articubot_one/build/articubot_one' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble _=/usr/bin/env /usr/bin/cmake --build /home/user/ros_2/src/articubot_one/build/articubot_one -- -j8 -l8
+Invoking command in '/home/user/ros_2/src/articubot_one/build/articubot_one': CMAKE_PREFIX_PATH=/opt/ros/humble _=/usr/bin/env /usr/bin/cmake --install /home/user/ros_2/src/articubot_one/build/articubot_one
+Invoked command in '/home/user/ros_2/src/articubot_one/build/articubot_one' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble _=/usr/bin/env /usr/bin/cmake --install /home/user/ros_2/src/articubot_one/build/articubot_one
