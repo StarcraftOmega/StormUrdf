@@ -2,7 +2,7 @@
 
 This guide provides the exact command sequence to build, visualize, and simulate your custom 6-wheeled robot in ROS 2 Humble.
 
-1. Build the Workspace
+**1. Build the Workspace**
 
 Always run this after making changes to your .xacro files or adding new launch/config files.
 
@@ -16,7 +16,7 @@ colcon build --packages-select articubot_one
 source install/setup.bash
 
 
-2. Visualization Mode (RViz)
+**2. Visualization Mode (RViz)**
 
 Use this mode to verify your robot's appearance and joint transforms without running physics.
 
@@ -26,7 +26,7 @@ ros2 launch articubot_one view_robot.launch.py
 
 Note: If you haven't saved your config yet, open RViz manually (ros2 run rviz2 rviz2), add the RobotModel display, and save it to src/articubot_one/config/view_bot.rviz.
 
-3. Physics Simulation (Gazebo)
+**3. Physics Simulation (Gazebo)**
 
 Use this mode to interact with the world and test the movement logic of the 6-wheel diff-drive plugin.
 
